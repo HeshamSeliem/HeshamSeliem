@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub!
 
-<!--
-**HeshamSeliem/HeshamSeliem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a **Hesham Seliem** **junior Flutter developer** eager to grow and make a mark in the world of app development. Currently, I’m learning and building projects to enhance my skills and gain hands-on experience.
 
-Here are some ideas to get you started:
+## 🌟 What I’m Working On:
+- Developing **Islamy App** — An application that displays all the Quran and many of the prophetic hadiths. It includes a feature for tasbih (praising) and counting, a feature for prayer times, and many other features with ease of use.
+## 📚 What I’m Learning:
+- Flutter, Dart, Firebase, and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📧 Let’s Connect:
+- Email: heshamseliem8@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/hesham-seliem-b3b130253/)
+- 
